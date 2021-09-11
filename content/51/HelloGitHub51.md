@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 51 期
->兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
@@ -45,7 +45,7 @@
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C# 项目
-3、[Netch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NetchX/Netch)：一款 Windows 平台的开源游戏加速工具
+3、[netch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/netchx/netch)：一款 Windows 平台的开源游戏加速工具
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Netch.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -115,7 +115,7 @@ perfume.end('fibonacci');
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/perfume.png' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[Mongood](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/RenzHoly/Mongood)：MongoDB 图形化的管理工具。特性：
+16、[mongood](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/renzholy/mongood)：MongoDB 图形化的管理工具。特性：
 - 基于微软 Fluent UI，支持自动黑暗模式
 - 支持完整的 Mongo-shell 数据类型和查询语法，利用索引实现的自动查询和排序
 - 支持 Json 数据库模式，既可用于 Server 也可用于 Client
@@ -230,7 +230,7 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/Surprise.png' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[djl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/awslabs/djl)：亚马逊开源的一款基于 Java 语言的深度学习框架。对于 Java 开发者而言，可以在 Java 中开发及应用原生的机器学习和深度学习模型，同时简化了深度学习开发的难度。通过 DJL 提供直观的、高级的 API，Java 开发人员可以训练自己的模型，或者利用数据科学家用 Python 预先训练好的模型来进行推理。如果您恰好是对学习深度学习感兴趣的 Java 开发者，那么这个项目完全对口。运行效果如下：
+35、[djl](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/deepjavalibrary/djl)：亚马逊开源的一款基于 Java 语言的深度学习框架。对于 Java 开发者而言，可以在 Java 中开发及应用原生的机器学习和深度学习模型，同时简化了深度学习开发的难度。通过 DJL 提供直观的、高级的 API，Java 开发人员可以训练自己的模型，或者利用数据科学家用 Python 预先训练好的模型来进行推理。如果您恰好是对学习深度学习感兴趣的 Java 开发者，那么这个项目完全对口。运行效果如下：
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/51/img/djl.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -246,9 +246,9 @@ python py2sec.py -d example/ -m test1.py,bbb/
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
-    不仅能第一时间收到推送，还有各种回馈粉丝的活动<br>
+    不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/51/'>这里</a> 获取更好的阅读体验。
 </p>
 
